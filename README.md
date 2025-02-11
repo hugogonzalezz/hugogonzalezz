@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Hugo, I am a senior in college at UWMilwaukee interested in all things Game Developer related!
+My name is Hugo, I am a senior in college at UW-Milwaukee interested in all things Game Developer related!
 
 - 🌱 I’m currently becoming more proficcient in C++, Python and Java.
 - 🔭 I’m currently working on developing more games in Unreal Engine and becoming a better game dev.
